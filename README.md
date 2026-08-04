@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/SaiIyer23/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/SaiIyer23/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
@@ -55,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
