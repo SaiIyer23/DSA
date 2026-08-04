@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
