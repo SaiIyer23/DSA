@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
