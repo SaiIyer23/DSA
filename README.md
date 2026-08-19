@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
@@ -92,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/SaiIyer23/DSA/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
