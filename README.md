@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiIyer23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SaiIyer23/DSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiIyer23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaiIyer23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiIyer23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/SaiIyer23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SaiIyer23/DSA/tree/master/0242-valid-anagram) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SaiIyer23/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
