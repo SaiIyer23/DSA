@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SaiIyer23/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/SaiIyer23/DSA/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
 ## Simulation
 |  |
 | ------- |
@@ -146,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SaiIyer23/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
