@@ -1,19 +1,10 @@
 class Solution {
-    public int repeatedStringMatch(String a, String b) {
-        String repeat = a;
-        int count = 1;
-        while (repeat.length() < b.length()) {
-            repeat += a;
-            count++;
-        }
-        if (repeat.indexOf(b) != -1) {
-            return count;
-        }
-        repeat += a;
-        count++;
-        if (repeat.indexOf(b) != -1) {
-            return count;
-        }
+    public int repeatedStringMatch(String A, String B) {
+        int q;
+        StringBuilder S = new StringBuilder(A);
+        for (q=1; S.length() < B.length(); q++) S.append(A);
+        if (S.indexOf(B) >= 0) return q;
+        if (S.append(A).indexOf(B) >= 0) return q+1;
         return -1;
     }
 }
