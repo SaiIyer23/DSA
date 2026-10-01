@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SaiIyer23/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiIyer23/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SaiIyer23/DSA/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/SaiIyer23/DSA/tree/master/0415-add-strings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SaiIyer23/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/SaiIyer23/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/SaiIyer23/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiIyer23/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SaiIyer23/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SaiIyer23/DSA/tree/master/0125-valid-palindrome) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SaiIyer23/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiIyer23/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/SaiIyer23/DSA/tree/master/0242-valid-anagram) |
