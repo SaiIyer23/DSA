@@ -1,20 +1,29 @@
 class Solution {
+    // Map digits to letters. Indices 0 and 1 are intentionally left empty.
+    private static final String[] KEYPAD = {
+        "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
+    };
+
     public List<String> letterCombinations(String digits) {
-        List<String> res=new ArrayList<>();
-        if(digits.length()==0)return res;
-        String[] phone={"","","abc", "def","ghi", "jkl", "mno","pqrs", "tuv", "wxyz"};
-        func(digits,0,"",res,phone);
-        return res;
+        List<String> result = new ArrayList<>();
+        if (digits == null || digits.length() == 0) {
+            return result;
+        }
+        backtrack(result, new StringBuilder(), digits, 0);
+        return result;
     }
-    public static void func(String digits,int idx,String current,List<String>res,String[] phone){
-        if(idx==digits.length()){
-            res.add(current);
+
+    private void backtrack(List<String> result, StringBuilder current, String digits, int index) {
+        if (index == digits.length()) {
+            result.add(current.toString());
             return;
         }
-        String letters=phone[digits.charAt(idx)-'0'];//number hi mil jayega '0' sub krne se, eg. '2'-'0'=2
-        for(char c:letters.toCharArray()){
-            func(digits,idx+1,current+c,res,phone);
+        int digit = digits.charAt(index) - '0';
+        String letters = KEYPAD[digit];
+        for (char c : letters.toCharArray()) {
+            current.append(c);                          // Choose
+            backtrack(result, current, digits, index + 1); // Explore
+            current.deleteCharAt(current.length() - 1); // Backtrack
         }
-
     }
 }
