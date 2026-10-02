@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/SaiIyer23/DSA/tree/master/0415-add-strings) |
 | [0686-repeated-string-match](https://github.com/SaiIyer23/DSA/tree/master/0686-repeated-string-match) |
+| [1021-remove-outermost-parentheses](https://github.com/SaiIyer23/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -183,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SaiIyer23/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SaiIyer23/DSA/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SaiIyer23/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SaiIyer23/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
