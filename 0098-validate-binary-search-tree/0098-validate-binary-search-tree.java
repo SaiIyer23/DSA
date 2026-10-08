@@ -18,18 +18,21 @@ class Solution {
         if (root == null) {
             return true;
         }
-        return isValidBST(root, null, null);
+        List<Integer> res=new ArrayList<>();
+        helper(root,res);
+        for(int i=0;i<res.size()-1;i++){
+            if(res.get(i+1)<=res.get(i)){
+                return false;
+            }
+        }
+        return true;
     }
-
-    private boolean isValidBST(TreeNode root, Integer min, Integer max) {
-        if (root == null) {
-            return true;
+    public void helper(TreeNode root,List<Integer> res){
+        if(root==null){
+            return;
         }
-        if ((min != null && min >= root.val) || (max != null && max <= root.val)) {
-            return false;
-        }
-        boolean left = isValidBST(root.left, min, root.val);
-        boolean right = isValidBST(root.right, root.val, max);
-        return left && right;
+        helper(root.left,res);
+        res.add(root.val);
+        helper(root.right,res);
     }
 }
