@@ -14,15 +14,34 @@
  * }
  */
 class Solution {
+
+    int count = 0;
+    int answer = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> res=new ArrayList<>();
-        helper(root,res);
-        return res.get(k-1);
+        find(root, k);
+        return answer;
     }
-    public void helper(TreeNode root,List<Integer> res){
-        if(root==null)return;
-        helper(root.left,res);
-        res.add(root.val);
-        helper(root.right,res);
+
+    private void find(TreeNode root, int k) {
+
+        // Base case
+        if (root == null || count >= k) {
+            return;
+        }
+
+        // LEFT
+        find(root.left, k);
+
+        // ROOT
+        count++;
+
+        if (count == k) {
+            answer = root.val;
+            return;
+        }
+
+        // RIGHT
+        find(root.right, k);
     }
 }
