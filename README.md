@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/SaiIyer23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/SaiIyer23/DSA/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/SaiIyer23/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SaiIyer23/DSA/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SaiIyer23/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/SaiIyer23/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SaiIyer23/DSA/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/SaiIyer23/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SaiIyer23/DSA/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/SaiIyer23/DSA/tree/master/0415-add-strings) |
 ## Memoization
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SaiIyer23/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SaiIyer23/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/SaiIyer23/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SaiIyer23/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SaiIyer23/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SaiIyer23/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/SaiIyer23/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
