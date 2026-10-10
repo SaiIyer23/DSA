@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/SaiIyer23/DSA/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
+| [0496-next-greater-element-i](https://github.com/SaiIyer23/DSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiIyer23/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SaiIyer23/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/SaiIyer23/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/SaiIyer23/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SaiIyer23/DSA/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SaiIyer23/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Matrix
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiIyer23/DSA/tree/master/0020-valid-parentheses) |
 | [0173-binary-search-tree-iterator](https://github.com/SaiIyer23/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/SaiIyer23/DSA/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SaiIyer23/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiIyer23/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/SaiIyer23/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/SaiIyer23/DSA/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/SaiIyer23/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
