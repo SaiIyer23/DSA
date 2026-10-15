@@ -27,7 +27,7 @@ class Solution {
         if(ans>=Math.pow(2,31) && sign==-1) return Integer.MIN_VALUE;
 
         if(sign==-1){
-            return ans-ans-ans;
+            return -ans;
         }
         return ans;
     }
