@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SaiIyer23/DSA/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/SaiIyer23/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/SaiIyer23/DSA/tree/master/0046-permutations) |
+| [0057-insert-interval](https://github.com/SaiIyer23/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
