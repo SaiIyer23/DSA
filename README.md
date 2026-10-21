@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/SaiIyer23/DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/SaiIyer23/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/SaiIyer23/DSA/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SaiIyer23/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/SaiIyer23/DSA/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/SaiIyer23/DSA/tree/master/0322-coin-change) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SaiIyer23/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/SaiIyer23/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/SaiIyer23/DSA/tree/master/0136-single-number) |
 ## Quicksort
 |  |
 | ------- |
